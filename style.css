@@ -1,0 +1,36 @@
+.navbar1 {
+    background-color: rgb(14, 16, 158);
+    text-align: center;
+    color: white;
+}
+
+.drop-down {
+    position: absolute;
+    right: top;
+    left: 414px;
+    margin: 7px;
+}
+
+.img-size {
+    height: 50px;
+    width: 100px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
+
+h5 {
+    text-align: center;
+    height: 250px;
+    color: white;
+}
+footer{
+    background-color:black
+}
+footer h4 {
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
+footer h4 a {
+    color: white;
+}
